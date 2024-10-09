@@ -31,6 +31,6 @@ class IntStack:
         return self.top.value
     
     def size(self):
-        return self.size
+        return self._size
     
     #Reference: My own code from CMSC 141 and 142 projects
